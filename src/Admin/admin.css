@@ -1,0 +1,4 @@
+.nav-item .nav-link .nav-link-text:hover {
+    color: white;
+    pointer-events: none; /* This disables the hover effect */
+}
